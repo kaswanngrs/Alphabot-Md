@@ -20,9 +20,9 @@ global.available = true //status online (online)
 // Other
 global.botname = "OnetZ BOT" //namabot kalian
 global.ownername= "OnetZ" //nama kalian
-global.myweb ="https://kaswan.my.id/" //bebas asal jan hapus
+global.myweb ="https://api-alphabot.herokuapp.com" //bebas asal jan hapus
 global.youtube = "https://youtube.com/" //bebas asal jan hapus
-global.github = "E" //bebas
+global.github = "#" //bebas
 global.email = "info@urlku.my.id" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6285823411987" // nomor wa kalian
